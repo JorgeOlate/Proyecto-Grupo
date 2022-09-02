@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 asdasdad
+=======
+hola mundo
+>>>>>>> c588fd26fdc5a922fdbdea712d872e7e5a99cc0f
